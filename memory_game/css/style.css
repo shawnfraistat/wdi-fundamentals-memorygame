@@ -62,6 +62,15 @@ p {
 img {
 	margin: 40px 8px 0 8px;
 }
+button {
+	font-family: Raleway, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #F15B31;
+	color: #FFFFFF;
+}
 .copyright {
 	font-family: Raleway, sans-serif;
 	float: left;
